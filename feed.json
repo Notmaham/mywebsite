@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mmmclothing",
+    "description": "",
+    "home_page_url": "https://notmaham.github.io/mywebsite",
+    "feed_url": "https://notmaham.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "icon": "https://notmaham.github.io/mywebsite/media/website/website.jpg",
+    "author": {
+        "name": "Maham"
+    },
+    "items": [
+    ]
+}
